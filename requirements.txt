@@ -1,0 +1,16 @@
+# Pillow (required for handling images)
+Pillow>=8.0.0
+
+# OpenCV (computer vision library)
+opencv-python>=4.5.3
+
+# NumPy (required for array operations)
+numpy>=1.21.0
+
+# passlib (for password hashing)
+passlib>=1.7.4
+bcrypt>=4.1.2
+
+# Mediapipe (Google's library for building perception pipelines)
+mediapipe>=0.8.5
+
